@@ -1,0 +1,87 @@
+.titulo{
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+
+.imagen{
+    border:50px solid;
+    color: pink;
+    display: block;
+    margin: 0 auto;
+}
+
+.parrafo1{
+    border:2px solid;
+    color:red;
+    padding:10px;
+    text-align: justify;
+}
+
+.parrafo2{
+    border:2px solid;
+    color:green;
+    padding:10px;
+    text-align: justify;
+}
+
+.parrafo3{
+    border:2px solid;
+    color:crimson;
+    padding:10px;
+    text-align: justify;
+}
+
+.parrafo4{
+    border:2px solid;
+    color:darkgreen;
+    padding:10px;
+    text-align: justify;
+}
+
+.listanovedades{
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Losmensajes{
+    background-color: white;
+    float:left;
+    width:25%;
+    text-align: center;
+}
+
+.Lallamada{
+    background-color: white;
+    float:left;
+    width:25%;
+    text-align: center;
+}
+
+.Elencuentro{
+    background-color: white;
+    float:left;
+    width:25%;
+    text-align: center;
+}
+
+.Losmensajes:hover,
+.Lallamada:hover,
+.Elencuentro:hover {background-color:pink}
+
+.listaconsejos{
+    list-style: none;
+}
+
+.Nuncatedejesllevarporellos{
+    list-style: none;
+}
+
+.imagenheader{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    display: block;
+    margin: 0 auto;
+}
